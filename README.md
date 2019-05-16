@@ -1,2 +1,2 @@
 # jarvis.py
-Onli pc 
+onliy pc 
